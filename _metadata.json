@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "c7e495f9d1c9669b0c7503601f84bfa03b00b597",
+    "edition": 1,
+    "date": 1638118199830,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "H. Moustache"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Action Helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "9e095b1d655f5bffca572fceec6ae28b172c89c4",
+    "edition": 2,
+    "date": 1638118199886,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Inferno"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "24f02b69178fe52da096f153308a144edcba7793",
+    "edition": 3,
+    "date": 1638118199937,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Day"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Punk"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "61ca1520d2de0dc1dc730181b98590784b660f08",
+    "edition": 4,
+    "date": 1638118199988,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Proud"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "315863a1cfc3068d3c3755e912de70c1eb5d14f8",
+    "edition": 5,
+    "date": 1638118200041,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Moustache"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Inferno"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
